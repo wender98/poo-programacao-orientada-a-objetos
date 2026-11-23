@@ -1,0 +1,1 @@
+Repositório destinado à organização e entrega dos trabalhos e exercícios práticos desenvolvidos na disciplina de Programação Orientada a Objetos, utilizando Java e o IntelliJ IDEA para praticar conceitos como modelagem de classes, encapsulamento, persistência de dados e interfaces gráficas.
